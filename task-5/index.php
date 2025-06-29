@@ -6,6 +6,6 @@
 поэтому я не понял зачем тут параметр количества братьев
 */
 function aliceBrotherSistersCount($aliceSistersCount) {
-    return $aliceSistersCount - 1;
+    return $aliceSistersCount + 1;
 }
 
